@@ -11,9 +11,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.veciapp.Activity.Adaptor.CartListAdaptor;
-import com.example.veciapp.Activity.Helper.ManagementCart;
-import com.example.veciapp.Activity.Interface.ChangeNumberItemsListener;
+import com.example.veciapp2.Adaptor.CartListAdaptor;
+import com.example.veciapp2.Helper.ManagementCart;
+import com.example.veciapp2.Interface.ChangeNumberItemsListener;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class CartListActivity extends AppCompatActivity {

@@ -9,10 +9,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.veciapp.Activity.Adaptor.CategoryAdaptor;
-import com.example.veciapp.Activity.Adaptor.PopularAdaptor;
-import com.example.veciapp.Activity.Domain.CategoryDomain;
-import com.example.veciapp.Activity.Domain.FoodDomain;
+import com.example.veciapp2.Adaptor.CategoryAdaptor;
+import com.example.veciapp2.Adaptor.PopularAdaptor;
+import com.example.veciapp2.Domain.CategoryDomain;
+import com.example.veciapp2.Domain.FoodDomain;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;

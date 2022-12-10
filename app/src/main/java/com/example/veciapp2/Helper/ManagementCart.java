@@ -3,8 +3,8 @@ package com.example.veciapp2.Helper;
 import android.content.Context;
 import android.widget.Toast;
 
-import com.example.veciapp.Activity.Domain.FoodDomain;
-import com.example.veciapp.Activity.Interface.ChangeNumberItemsListener;
+import com.example.veciapp2.Domain.FoodDomain;
+import com.example.veciapp2.Interface.ChangeNumberItemsListener;
 
 import java.util.ArrayList;
 

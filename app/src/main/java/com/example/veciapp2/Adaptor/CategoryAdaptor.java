@@ -12,8 +12,8 @@ import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.veciapp.Activity.Domain.CategoryDomain;
-import com.example.veciapp.R;
+import com.example.veciapp2.Domain.CategoryDomain;
+import com.example.veciapp2.R;
 
 import java.util.ArrayList;
 

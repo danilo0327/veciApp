@@ -11,9 +11,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.veciapp.Activity.Domain.FoodDomain;
-import com.example.veciapp.Activity.ShowDetailActivity;
-import com.example.veciapp.R;
+import com.example.veciapp2.Domain.FoodDomain;
+import com.example.veciapp2.ShowDetailActivity;
+import com.example.veciapp2.R;
 
 import java.util.ArrayList;
 

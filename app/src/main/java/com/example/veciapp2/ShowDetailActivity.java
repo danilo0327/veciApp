@@ -8,8 +8,8 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.bumptech.glide.Glide;
-import com.example.veciapp.Activity.Domain.FoodDomain;
-import com.example.veciapp.Activity.Helper.ManagementCart;
+import com.example.veciapp2.Domain.FoodDomain;
+import com.example.veciapp2.Helper.ManagementCart;
 
 public class ShowDetailActivity extends AppCompatActivity {
     private TextView addToCartBtn;

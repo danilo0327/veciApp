@@ -11,10 +11,10 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.veciapp.Activity.Domain.FoodDomain;
-import com.example.veciapp.Activity.Helper.ManagementCart;
-import com.example.veciapp.Activity.Interface.ChangeNumberItemsListener;
-import com.example.veciapp.R;
+import com.example.veciapp2.Domain.FoodDomain;
+import com.example.veciapp2.Helper.ManagementCart;
+import com.example.veciapp2.Interface.ChangeNumberItemsListener;
+import com.example.veciapp2.R;
 
 import java.util.ArrayList;
 

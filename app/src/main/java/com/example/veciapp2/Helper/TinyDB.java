@@ -31,7 +31,7 @@ import android.preference.PreferenceManager;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.example.veciapp.Activity.Domain.FoodDomain;
+import com.example.veciapp2.Domain.FoodDomain;
 import com.google.gson.Gson;
 
 import java.io.File;
